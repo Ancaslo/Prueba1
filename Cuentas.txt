@@ -1,0 +1,4 @@
+coche
+piso
+habitacion
+total
